@@ -19,3 +19,5 @@ npm install sass
 # CSS Module를 사용하기 위해 추가로 classnames를 설치
 npm install classnames
 ```
+
+[1. jQuery를 사용하면 안되는 이유 Github URL](https://github.com/WebchemistGenn/haja-study/tree/47dd6cf1b62fdb6511c09da48075131e7291d9fd)
